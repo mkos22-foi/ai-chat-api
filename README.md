@@ -13,6 +13,9 @@
 - OpenAI/LLaMA
 - SQLite
 
-# To Do
-- Home page
-- 
+# React - explained
+`main.jsx` - entry point aplikacije
+`App.jsx` - glavna komponenta
+`App.css` i `index.css` - still, index je obično globalni still, app je stil samo app komponente
+
+! React je zasnovan na komponentama - blokovi koji grade interface !

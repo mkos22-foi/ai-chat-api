@@ -12,5 +12,14 @@ async def root():
 # PUT: to update data
 # DELETE: to delete data
 
+# /home
+# /chat
+# /chat/response
+# /chat/text
+# /history
+
+
+
+
 
 
