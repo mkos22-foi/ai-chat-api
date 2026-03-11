@@ -12,3 +12,7 @@
 - LangChain
 - OpenAI/LLaMA
 - SQLite
+
+# To Do
+- Home page
+- 
